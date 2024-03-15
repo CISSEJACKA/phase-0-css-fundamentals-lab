@@ -3,3 +3,25 @@ body {
   height: 100%;
   margin: 0;
 }
+}
+header {
+  margin: auto;
+  text-align: center;
+}
+p {
+  text-align: center;
+}
+figure {
+  text-align: center;
+}
+div {
+  float: left;
+  width: 25%;
+  background-color: rgb(240, 41, 6);
+}
+h3 {
+  text-align: center;
+}
+h2 {
+  text-align: center;
+}
